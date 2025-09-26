@@ -29,3 +29,8 @@ This project demonstrates Git best practices as part of a DevOps internship task
 ```bash
 python script.py
 ```
+<img width="1479" height="845" alt="Screenshot 2025-09-26 195312" src="https://github.com/user-attachments/assets/15ab20ee-444b-4055-b190-5207103d9ee4" />
+
+
+<img width="1485" height="975" alt="Screenshot 2025-09-26 195243" src="https://github.com/user-attachments/assets/10212844-d23b-489c-b233-b5c3aed94aee" />
+
