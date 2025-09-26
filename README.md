@@ -34,3 +34,4 @@ python script.py
 
 <img width="1485" height="975" alt="Screenshot 2025-09-26 195243" src="https://github.com/user-attachments/assets/10212844-d23b-489c-b233-b5c3aed94aee" />
 
+<img width="1866" height="650" alt="Screenshot 2025-09-26 201234" src="https://github.com/user-attachments/assets/d93fd9cc-f537-4832-913a-0c5b7bf84691" />
